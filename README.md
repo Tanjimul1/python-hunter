@@ -1,7 +1,6 @@
-# Python Hunter
+## Python Hunter
 
-Python Hunter is a powerful penetration testing framework designed to help security professionals identify and exploit vulnerabilities in web applications. 
-
+Python Hunter is a powerful penetration testing framework designed to help security professionals identify and exploit vulnerabilities in web applications. This tool is completely built with Python and relies on popular libraries such as `requests`, `beautifulsoup4`, and `scapy`.
 
 Features
 XSS Detection: Quickly identify potential Cross-Site Scripting (XSS) vulnerabilities in web applications.
